@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Poker Pro (德州扑克)",
+  "description": "一款专业的德州扑克游戏，支持单人与AI对战及模拟多人在线大厅。具备智能AI对手、实时局势分析和沉浸式中文界面。",
+  "requestFramePermissions": []
+}
